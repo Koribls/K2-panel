@@ -26,7 +26,7 @@ services:
       retries: 10
 
   backend:
-    image: lyqray/springboot-backend:latest
+    image: royalkong/springboot-backend:latest
     container_name: springboot-backend
     restart: unless-stopped
     environment:
@@ -54,7 +54,7 @@ services:
       start_period: 90s
 
   frontend:
-    image: lyqray/vite-frontend:latest
+    image: royalkong/vite-frontend:latest
     container_name: vite-frontend
     restart: unless-stopped
     ports:
@@ -82,5 +82,5 @@ networks:
     enable_ipv6: true
     ipam:
       config:
-        - subnet: 172.66.0.0/16 
+        - subnet: 172.20.0.0/16 
         - subnet: fd72:6666:beef::/48
