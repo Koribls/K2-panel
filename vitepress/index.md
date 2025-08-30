@@ -14,7 +14,7 @@ hero:
       link: /getting-started
     - theme: alt
       text: 查看源码
-      link: https://github.com/bqlpfy/flux-panel
+      link: https://github.com/Koribls/K2-panel
 
 features:
   - icon: 🔄
@@ -55,10 +55,10 @@ features:
 
 如果您在使用过程中遇到问题或有功能建议，欢迎：
 
-- 📱 [加入 Telegram 群组](https://t.me/+wdVDni1fdyI0YzE1)
-- 🐛 [报告问题](https://github.com/bqlpfy/flux-panel/issues)
-- 💡 [功能建议](https://github.com/bqlpfy/flux-panel/issues)
-- 🤝 [参与贡献](https://github.com/bqlpfy/flux-panel/pulls)
+- 📱 [加入 Telegram 群组](https://t.me/K2CLOUD)
+- 🐛 [报告问题](https://github.com/Koribls/K2-panel/issues)
+- 💡 [功能建议](https://github.com/Koribls/K2-panel/issues)
+- 🤝 [参与贡献](https://github.com/Koribls/K2-panel/pulls)
 
 ## 免责声明
 
