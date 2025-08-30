@@ -77,7 +77,7 @@ curl -L https://raw.githubusercontent.com/Koribls/k2-panel/refs/heads/main/insta
 
 ```
 
-
+---
 
 
 #### 默认管理员账号
