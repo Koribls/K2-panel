@@ -1,7 +1,7 @@
 {
-  "name": "flux-panel-docs",
+  "name": "K2-panel-docs",
   "version": "1.0.0",
-  "description": "flux-panel转发面板文档",
+  "description": "K2-panel转发面板文档",
   "type": "module",
   "scripts": {
     "dev": "vitepress dev",
