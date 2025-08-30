@@ -113,5 +113,5 @@ curl -L https://raw.githubusercontent.com/Koribls/k2-panel/refs/heads/main/insta
 
 **⭐ 如果这个项目对您有帮助，请给个 Star 支持一下！**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Koribls/k2-panel&type=Date)](https://www.star-history.com/#Koribls/k2-panel&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Koribls/K2-panel&type=Date)](https://www.star-history.com/#Koribls/K2-panel&Date)
 
