@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'flux-panel',
+  title: 'K2-panel',
   description: '基于gost的转发面板',
   
   themeConfig: {
@@ -13,8 +13,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/bqlpfy/flux-panel' },
-      { icon: 'telegram', link: 'https://t.me/+wdVDni1fdyI0YzE1'}
+      { icon: 'github', link: 'https://github.com/Koribls/K2-panel' },
+      { icon: 'telegram', link: 'https://t.me/K2CLOUD'}
     ]
   }
 })
